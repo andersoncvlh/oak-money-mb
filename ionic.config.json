@@ -1,6 +1,6 @@
 {
   "name": "oak-money-mb",
-  "app_id": "",
+  "app_id": "84332cc9",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
